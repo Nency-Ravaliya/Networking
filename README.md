@@ -1,7 +1,5 @@
 # Networking
 
-# README.md
-
 ## Step 1: Your Laptop Gets an IP Address via DHCP
 
 When your laptop connects to a network (Wi-Fi or Ethernet), it needs an IP address to communicate with other devices on the network and the internet. Here's how it happens:
