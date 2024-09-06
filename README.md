@@ -108,3 +108,12 @@ Once your request reaches Google’s servers, they respond back, and the process
 - **Source IP:** Google’s server IP  
 - **Destination IP:** Your laptop’s IP  
 - **Transport Info:** Google’s response data, such as HTML for the google.com page
+
+## Conclusion
+- DHCP assigns an IP to your laptop via the router.
+- The switch forwards frames within the LAN using MAC addresses.
+- The router forwards packets outside your LAN to the internet using IP addresses.
+- Hops represent each router the packet travels through to reach Google.
+- Finally, Google.com responds with the requested data, which is routed back to your laptop.
+- Each component works together across multiple layers to ensure smooth communication from your laptop to the outside world!
+
